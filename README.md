@@ -1,5 +1,8 @@
 # Sales Analysis Report
-
+# Description : 
+* Data cleaning: Ensured proper data types (e.g., dates, decimals) , and cleaning data .
+* Data modeling: Filtered and structured sales data by product, revenue, and time.
+* Business analysis: Generated actionable recommendations.
 # objective
 This project analyzes 12 months of sales data to identify:
 - Top-country sales.
