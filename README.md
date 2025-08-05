@@ -94,30 +94,30 @@ This project analyzes 12 months of sales data to identify:
  **Push Notifications or Emails:**
 * Schedule **email/push notifications** slightly **before** the peak times (e.g., 8 AM and 4:30 PM) to catch users before they start ordering.
 
-# Interpretation of the Most Sold Products
+# 3. Interpretation of the Most Sold Products
 
 ![top product sold ](soldproduct.png)
 
- **Top Sold Products:**
-1. **AAA Batteries (4-pack)** – \~5000 units
-2. **AA Batteries (4-pack)** – \~4700 units
-3. **Charging Cables**:
-       * **Lightning Charging Cable** – \~3800 units
-       * **USB-C Charging Cable** – \~3600 units
-These are **everyday essentials**, low-cost, high-demand items. They dominate due to their frequent need and affordability.
+Top 5 by Units Sold:
+ * AAA Batteries (4-pack)
+ * AA Batteries (4-pack)
+ * Lightning Charging Cable
+ * USB-C Charging Cable
+ * Wired Headphones
+These are low-cost, high-demand items. and everyday essentials. They're sold in very high volume, but they don’t contribute much to revenue, and they dominate due to their frequent need and affordability.
 
- **Mid-Tier Sellers:**
-* **Wired Headphones**, **Apple Airpods Headphones**, **Bose Soundsport Headphones**
-* **Monitors** (27in FHD, Ultrawide, Gaming)
-* **Smartphones** (iPhone, Google Phone)
-These are **consumer electronics** that combine functionality and moderate cost. They show strong but not top-tier sales.
+Mid-Tier Sellers:
+ * Wired Headphones, Apple Airpods Headphones, Bose Soundsport Headphones
+ * Monitors (27in FHD, Ultrawide, Gaming)
+ * Smartphones (iPhone, Google Phone)
+These are consumer electronics that combine functionality and moderate cost. They show strong but not top-tier sales.
 
- **Lower Sales Products:**
-* **Laptops** (Macbook Pro, ThinkPad)
-* **Flat-screen TVs**
-* **Large Appliances**: LG Dryer, LG Washing Machine
-* **20in Monitor, Vareebadd Phone**
-These products are **higher in price and purchased less frequently**, hence lower unit sales.
+Lower Sales Products:
+ * Laptops(Macbook Pro, ThinkPad)
+ * Flat-screen TVs
+ * Large Appliances: LG Dryer, LG Washing Machine
+ * 20in Monitor, Vareebadd Phone
+These products are higher in price and purchased less frequently,lower unit sales.
 
 #  Recommendations:
 * Keep **large inventory** of top-selling essentials like batteries and charging cables.
@@ -132,18 +132,44 @@ These products are **higher in price and purchased less frequently**, hence lowe
        * Offering discounts
        * Improving product visibility
 
+# 4. top revenue product sales
 
+![revenue product  ](productrevenue.png)
 
+Top 5 by Revenue:
+ * MacBook Pro Laptop
+ * iPhone
+ * ThinkPad Laptop
+ * Google Phone
+ * 34in Ultrawide Monitor
+These are high-cost, low-volume items. Even if sold less often, their high price makes them the biggest revenue generators.
 
+# Strategic Recommendations
+* Don’t focus only on top-selling items like cables and batteries. Prioritize revenue-rich products (e.g., laptops, phones) in marketing and product placement.
+* Combine low-revenue, high-volume items with high-margin ones , example: Bundle MacBook Pro + USB-C cable + Headphones.
+* While selling budget items (batteries/cables), use recommendation engines or ads to upsell phones, headphones, and laptops.
+* Stock large quantities of fast-moving items (batteries, cables).
+* Maintain strategic inventory of big-ticket items, ensuring availability without overstocking.
+* Push mid-tier crossover products like: Apple AirPods, Bose, Headphones , Monitors . These show strong performance both in units sold and revenue.
+* Products like LG Washing Machine, Wired Headphones, AA/AAA batteries show low revenue despite high volume. Look into: Pricing strategies , Supplier negotiations . Possible discontinuation or improved positioning.
 
+# 5. Top Performing Mounth 
 
+![revenue product  ](productrevenue.png)
 
+* High Performance in April
+April is your peak month. This might be due to:
+Seasonal promotions
+New product launches
+End-of-quarter deals
+Holidays like Easter sales
 
-
-
-
-
-
+#  Recommendations
+1. Review what promotions, products, or events drove April's success.
+2.Replicate or expand April campaigns in other months.
+3. Consider Back-to-School promotions in August.
+4.Use flash sales or email remarketing to re-engage customers.
+5.Might need more stock and staff in April and possibly reduce in slow months.
 
 
 
