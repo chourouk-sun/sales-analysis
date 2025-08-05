@@ -94,9 +94,9 @@ This project analyzes 12 months of sales data to identify:
  **Push Notifications or Emails:**
 * Schedule **email/push notifications** slightly **before** the peak times (e.g., 8 AM and 4:30 PM) to catch users before they start ordering.
 
-# 3. Interpretation of the Most Sold Products
+# 3. Most Sold Products
 
-![top product sold ](soldproduct.png)
+![top product sold ](productbyquontity.png)
 
 Top 5 by Units Sold:
  * AAA Batteries (4-pack)
@@ -134,7 +134,7 @@ These products are higher in price and purchased less frequently,lower unit sale
 
 # 4. top revenue product sales
 
-![revenue product  ](productrevenue.png)
+![revenue product ](productrevenue.png)
 
 Top 5 by Revenue:
  * MacBook Pro Laptop
@@ -155,7 +155,7 @@ These are high-cost, low-volume items. Even if sold less often, their high price
 
 # 5. Top Performing Mounth 
 
-![revenue product  ](productrevenue.png)
+![revenue mounth](mounthsale.png)
 
 * High Performance in April
 April is your peak month. This might be due to:
